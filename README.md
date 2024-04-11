@@ -13,7 +13,7 @@ E logo em seguida utilize o comando:
 **pip install -r requirements.txt**
 
 Ademais, verifique se o WebDriver do navegador está no local correto. Neste projeto, foi utilizado o geckoDriver, webdriver do **Firefox**, o mesmo pode ser encontrado em [https://github.com/mozilla/geckodriver/releases](https://github.com/mozilla/geckodriver/releases).
-
+O gecko driver utilizado está na versão 0.34.0
 
 # Instruções de Uso
 
